@@ -36,7 +36,7 @@ share_updated: 2025-09-18T19:05:03-05:00
 Decisiones tomadas
 La sesión duro mas de una hora, se controlrara el tiempo para evitar sobrecargas. 
 - ¿Qué queda pendiente?
-Crear la carpeta workflow, deploy.yml, mejorar el readme.md
+~~Crear la carpeta workflow, deploy.yml,~~ ~~mejorar el readme.md~~
 
 - **Día 3**
   - Modelado de datos: usuarios, chats, agentes
