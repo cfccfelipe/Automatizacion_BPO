@@ -33,14 +33,30 @@ share_updated: 2025-09-18T19:05:03-05:00
   - ~~Setup de entorno local/cloud + CI/CD básico~~
   - ~~✍️ _Entregables:_ Repositorio inicial + pipeline de despliegue~~
 
-Decisiones tomadas
-La sesión duro mas de una hora, se controlrara el tiempo para evitar sobrecargas. 
-- ¿Qué queda pendiente?
-~~Crear la carpeta workflow, deploy.yml,~~ ~~mejorar el readme.md~~
+~~Decisiones tomadas~~
+~~La sesión duro mas de una hora, se controlrara el tiempo para evitar sobrecargas.~~ 
+- ~~¿Qué queda pendiente?~~
+~~Crear la carpeta workflow, deploy.yml, mejorar el readme.md~~
 
-- **Día 3**
-  - Modelado de datos: usuarios, chats, agentes
-  - ✍️ _Entregables:_ Esquema SQL + migraciones trazables
+- ~~**Día 3**~~
+  - ~~Modelado de datos: usuarios, chats, agentes~~
+  - ~~✍️ _Entregables:_ Esquema SQL + migraciones trazables~~
+
+- [x] ¿Se nombraron los pendientes anteriores?
+- [x] ¿Se definió claramente la actividad antes de comenzar ?
+- [x] ¿Se tocaron temas adicionales al proyecto? Hablamos sobre los trabajos en USA
+- [x] ¿La sesión duró 1 hora o menos? 1 hora y 10 minutos
+- [ ] ¿Se logró terminar el entregable propuesto?
+- [x] ¿Ambas partes aportaron activamente?
+- [x] ¿Se dejó claro el próximo paso para la siguiente sesión?
+
+- Decisiones tomadas (con causa y justificación)
+
+	Se decide no manejar loggin y cambiar de config atributes genericos a los atributos asignados (API keys y prompt)
+
+- ¿Qué queda pendiente?
+
+	Normalized relationchis and Write SQL database
 
 ---
 
